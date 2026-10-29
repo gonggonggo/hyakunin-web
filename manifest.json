@@ -1,0 +1,21 @@
+{
+  "name": "一人で覚える百人一首",
+  "short_name": "百人一首",
+  "start_url": "/hyakunin-web/",
+  "scope": "/hyakunin-web/",
+  "display": "standalone",
+  "background_color": "#f6f0e1",
+  "theme_color": "#f6f0e1",
+  "icons": [
+    {
+      "src": "/hyakunin-web/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/hyakunin-web/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
